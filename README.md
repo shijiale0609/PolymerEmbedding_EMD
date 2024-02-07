@@ -1,1 +1,1 @@
-# Polymer_Distance_Vector
+# Polymer Distance Embedding Vector
