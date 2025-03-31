@@ -1,1 +1,1 @@
-# A Similarity Informed Embedding Method for Polymers
+# A Similarity Informed Distance Embedding Method for Polymers
